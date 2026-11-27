@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Toolkit</string>
+    <string name="nav_tools">Herramientas</string>
+    <string name="nav_notes">Notas</string>
+    <string name="nav_more">Más</string>
+    <string name="tools_home_title">PDF Toolkit</string>
+    <string name="tools_search_hint">Buscar herramientas…</string>
+    <string name="recent_files_header">Archivos recientes</string>
+    <string name="see_all_library">Abrir biblioteca</string>
+    <string name="favorites_header">Favoritos</string>
+    <string name="section_pdf_tools">Herramientas PDF</string>
+    <string name="section_documents_notes">Documentos y notas</string>
+    <string name="more_title">Más y Ajustes</string>
+    <string name="notes_tab_title">Notas y Listas</string>
+    <string name="runs_on_device">Funciona 100% en tu dispositivo</string>
+    <string name="vault_title">Bóveda privada y copia</string>
+    <string name="feedback_title">Comentarios y soporte</string>
+    <string name="language_title">Idioma</string>
+    <string name="language_system">Predeterminado del sistema</string>
+    <string name="cancel">Cancelar</string>
+    <string name="navigate_back">Atrás</string>
+    <string name="shortcut_scan_short">Escanear</string>
+    <string name="shortcut_scan_long">Escanear documento</string>
+    <string name="shortcut_sign_short">Firmar</string>
+    <string name="shortcut_sign_long">Firmar PDF</string>
+    <string name="shortcut_merge_short">Unir</string>
+    <string name="shortcut_merge_long">Unir PDFs</string>
+    <string name="shortcut_notes_short">Notas</string>
+    <string name="shortcut_notes_long">Notas y listas</string>
+</resources>

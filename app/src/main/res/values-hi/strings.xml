@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDF Toolkit</string>
+    <string name="nav_tools">टूल्स</string>
+    <string name="nav_notes">नोट्स</string>
+    <string name="nav_more">अधिक</string>
+    <string name="tools_home_title">PDF Toolkit</string>
+    <string name="tools_search_hint">टूल्स खोजें…</string>
+    <string name="recent_files_header">हाल की फ़ाइलें</string>
+    <string name="see_all_library">लाइब्रेरी खोलें</string>
+    <string name="favorites_header">पसंदीदा</string>
+    <string name="section_pdf_tools">PDF टूल्स</string>
+    <string name="section_documents_notes">दस्तावेज़ और नोट्स</string>
+    <string name="more_title">अधिक और सेटिंग्स</string>
+    <string name="notes_tab_title">नोट्स और सूचियाँ</string>
+    <string name="runs_on_device">100% आपके डिवाइस पर चलता है</string>
+    <string name="vault_title">निजी वॉल्ट और बैकअप</string>
+    <string name="feedback_title">फ़ीडबैक और सहायता</string>
+    <string name="language_title">भाषा</string>
+    <string name="language_system">सिस्टम डिफ़ॉल्ट</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="navigate_back">वापस</string>
+    <string name="shortcut_scan_short">स्कैन</string>
+    <string name="shortcut_scan_long">दस्तावेज़ स्कैन करें</string>
+    <string name="shortcut_sign_short">हस्ताक्षर</string>
+    <string name="shortcut_sign_long">PDF पर हस्ताक्षर करें</string>
+    <string name="shortcut_merge_short">मर्ज</string>
+    <string name="shortcut_merge_long">PDF मर्ज करें</string>
+    <string name="shortcut_notes_short">नोट्स</string>
+    <string name="shortcut_notes_long">नोट्स और सूचियाँ</string>
+</resources>
